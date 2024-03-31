@@ -1,0 +1,5 @@
+I have replaced pyside2 with pyside6 to add support to other architecture types like arm64 and other stuff that pyside6 support -juancarlo577
+
+files ive updated goes as follows
+./CTGP7UpdaterApp/ui_main.py - pyside2.Qgui.Qfont.setweight to pyside6.Qgui.Qfont.weight
+other files just needed to replace pyside2 with pyside6 not much needed a huge change.
